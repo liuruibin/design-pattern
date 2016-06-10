@@ -27,7 +27,7 @@ public class TeaWithHook extends CaffeineBeverageWithHook {
 		// get the user's response
 		String answer = null;
 
-		System.out.print("Would you like milk and sugar with your coffee (y/n)? ");
+		System.out.print("Would you like milk and sugar with your tea (y/n)? ");
 
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		try {
