@@ -1,8 +1,7 @@
 package headfirst.proxy.virtualproxy;
 
-import java.net.*;
 import java.awt.*;
-import java.awt.event.*;
+import java.net.URL;
 
 import javax.swing.*;
 

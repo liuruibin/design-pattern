@@ -1,12 +1,13 @@
 package headfirst.proxy.virtualproxy;
 
-import java.net.*;
-import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.Enumeration;
+import java.util.Hashtable;
 
 import javax.swing.*;
-
-import java.util.*;
 
 public class ImageProxyTestDrive {
     ImageComponent imageComponent;

@@ -1,10 +1,10 @@
 package headfirst.observer.swing;
 
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.*;
-import javax.swing.event.*;
 
 public class SwingObserverExample {
     JFrame frame;

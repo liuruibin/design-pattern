@@ -1,8 +1,8 @@
 package headfirst.combined.djview;
 
-import javax.sound.midi.*;
+import java.util.ArrayList;
 
-import java.util.*;
+import javax.sound.midi.*;
 
 public class BeatModel implements BeatModelInterface, MetaEventListener {
     Sequencer sequencer;
