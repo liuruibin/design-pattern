@@ -2,3 +2,5 @@
 .idea
 design-pattern.iml
 src/main/main.iml
+out/
+src/main/test/
