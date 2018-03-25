@@ -1,6 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
-design-pattern.iml
-src/main/main.iml
+*.iml
 out/
 src/main/test/
